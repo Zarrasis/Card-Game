@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57685b0fa22184d2ab7ed9c8bf9fdffc, type: 3}
+  m_Name: Flying Spaghetti Monster
+  m_EditorClassIdentifier: 
+  Description: All deities real and unreal fear the flying spaghetti monster
+  CardImage: {fileID: 21300000, guid: fba7180a913114314b038e44dc974a58, type: 3}
+  UnitImage: {fileID: 21300000, guid: b6209581c540c4ef1b02d59544a0a607, type: 3}
+  ManaCost: 2
+  MaxHealth: 8
+  Attack: 2
+  CreatureScriptName: 
+  specialCreatureAmount: 0
+  SpellScriptName: 
+  specialSpellAmount: 2
+  Targets: 0
